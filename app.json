@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "TapNadd.Mobile",
-    "slug": "TapNadd.Mobile",
+    "name": "TapNadd-ExpoMobile",
+    "slug": "TapNadd-ExpoMobile",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
